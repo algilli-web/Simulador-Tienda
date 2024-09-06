@@ -1,0 +1,2 @@
+pytest==8.3.2
+simple_screen==0.1.16
